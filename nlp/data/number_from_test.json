@@ -1,0 +1,587 @@
+[
+    {
+        "image": "VizWiz_test_00000017.jpg",
+        "question": "How many ounces in this container? ",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000073.jpg",
+        "question": "How much time is left on the microwave?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000195.jpg",
+        "question": "How many calories are in Ensure?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000230.jpg",
+        "question": "how many ",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000245.jpg",
+        "question": "How many countries are in this world?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000341.jpg",
+        "question": "How many containers are over here?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000378.jpg",
+        "question": "How many calories has this soft drink?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000460.jpg",
+        "question": "How much does this cost?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000476.jpg",
+        "question": "I have a question, can you tell me what time, what this is and how many buses does it have on it?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000567.jpg",
+        "question": "How much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000593.jpg",
+        "question": "How many minutes is left on the dryer?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000594.jpg",
+        "question": "How much are these head phones worth?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000600.jpg",
+        "question": "How many video games are in the show?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000668.jpg",
+        "question": "How many keys does the keyboard have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000834.jpg",
+        "question": "How much money is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000852.jpg",
+        "question": "How many calories in this bottle?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000910.jpg",
+        "question": "How much money is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000933.jpg",
+        "question": "How much is this currency?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00000934.jpg",
+        "question": "How much time is remaining?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001098.jpg",
+        "question": "How much this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001216.jpg",
+        "question": "How much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001218.jpg",
+        "question": "Which country is this? And how much is it?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001234.jpg",
+        "question": "how much do i weigh?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001297.jpg",
+        "question": "How many ounces are in this jar of mayonnaise?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001313.jpg",
+        "question": "How much could I sell the table and chairs for?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001456.jpg",
+        "question": "How much is this worth?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001487.jpg",
+        "question": "How much money is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001527.jpg",
+        "question": "How much snow is outside?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001566.jpg",
+        "question": "Yes I know it's jewelry but I want to know if you could describe it. Tell me how much it costs and if you see an order number. This is a Avon booklet. Yes I'll",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001619.jpg",
+        "question": "Not exactly sure what's going on here, but I'm trying to find out what the conventional oven instructions are and what the temperature is and how many minutes. I'm not sure if my",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001649.jpg",
+        "question": "How many lights are switched on, possibly?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001683.jpg",
+        "question": "How many milligrams are each tablet in this bottle?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001808.jpg",
+        "question": "How much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001829.jpg",
+        "question": "How many milligrams are these?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001942.jpg",
+        "question": "How much money is here please?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00001957.jpg",
+        "question": "How many ounces is this container?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002057.jpg",
+        "question": "How many calories doe this have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002202.jpg",
+        "question": "How many miles does this car have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002212.jpg",
+        "question": "How many video games are in the show and how are you answering questions tonight?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002434.jpg",
+        "question": "What color is the ceiling and how many lights are up there?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002462.jpg",
+        "question": "how much it",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002519.jpg",
+        "question": "how much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002539.jpg",
+        "question": "How much money is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002558.jpg",
+        "question": "How much of the page is visible, and how skewed is the picture? Thank you.",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002589.jpg",
+        "question": "What is the serving size, and how many calories per serving.",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002627.jpg",
+        "question": "How many colored connectors are on the back of that device?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002676.jpg",
+        "question": "How much?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002686.jpg",
+        "question": "Can you tell me how many steps I've taken this morning and any other information you might see on here?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002754.jpg",
+        "question": "How many lozenges are in this box?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002760.jpg",
+        "question": "How much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002779.jpg",
+        "question": "How much money is this? How much money is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002856.jpg",
+        "question": "How many ounces are in this hand?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00002995.jpg",
+        "question": "What is this, and how much does it cost?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003108.jpg",
+        "question": "What is it, how many milligrams, and the count?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003114.jpg",
+        "question": "How much is in each serving of beans? Is it half of a cup or a quarter of a cup that is the serving size?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003118.jpg",
+        "question": "How many gingerbread are on the shirt?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003297.jpg",
+        "question": "How much of the label can you see? Can you tell if this has conditioner in it and, if not, can you suggest a way that I can get this information? Thanks.",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003362.jpg",
+        "question": "How many fingers am I holding up?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003370.jpg",
+        "question": "katie ran two miles in twenty minutes how many miles per hour did she run?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003406.jpg",
+        "question": "How many grams of sodium are in this package?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003607.jpg",
+        "question": "Okay, we're onto something here. I put it in a little closer, hopefully to focus in more on that lower section as you suggested. Conventional oven, temperature, and how many minutes. Thank you very much.",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003637.jpg",
+        "question": "How many games are in the shelf?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00003690.jpg",
+        "question": "How many hats?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004131.jpg",
+        "question": "Can you tell from this side how many ounces this is?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004359.jpg",
+        "question": "How many pieces?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004398.jpg",
+        "question": "How much is that money? How much?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004427.jpg",
+        "question": "How much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004439.jpg",
+        "question": "How clear is the text, and how much of the page is visible?  Thank you.",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004546.jpg",
+        "question": "How much money is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004695.jpg",
+        "question": "How much does this weigh?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004810.jpg",
+        "question": "How much sodium does this have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00004938.jpg",
+        "question": "How much percent alcohol is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005204.jpg",
+        "question": "How much is this watch worth?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005246.jpg",
+        "question": "How much money do I have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005273.jpg",
+        "question": "How much is this Mike and Mickey Mouse clock worth?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005274.jpg",
+        "question": "What's in this and how much does each thing cost?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005330.jpg",
+        "question": "Can you tell me how much time is left on the oven timer? Thank you.",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005334.jpg",
+        "question": "How many keys are on this keyring?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005370.jpg",
+        "question": "How much money do I have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005391.jpg",
+        "question": "How much water is required?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005422.jpg",
+        "question": "How much was that dollar bill?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005468.jpg",
+        "question": "How many pizzas left?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005476.jpg",
+        "question": "How much do I weigh?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005537.jpg",
+        "question": "do you see any pink lines on this device, if so how many?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005628.jpg",
+        "question": "How much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005692.jpg",
+        "question": "How many degrees on the remote control?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005777.jpg",
+        "question": "I'd like to know how many steps I took? If you can't read it tell me if I need to go up or down or what to do",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005830.jpg",
+        "question": "How many fingers do I have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005855.jpg",
+        "question": "How many numbers are on this picture item?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00005897.jpg",
+        "question": "Is there any liters on this bottle to let me know how many liters?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006036.jpg",
+        "question": "How much time is left?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006141.jpg",
+        "question": "How many gigabytes?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006190.jpg",
+        "question": "How many cars are on each shelf? Thank you for what you did. ",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006196.jpg",
+        "question": "how many lights are visible?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006204.jpg",
+        "question": "How much does this cost?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006239.jpg",
+        "question": "How many video games are in the three shelves?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006271.jpg",
+        "question": "How many keys does the keyboard have?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006387.jpg",
+        "question": "How much is this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006419.jpg",
+        "question": "How much money is that note?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006438.jpg",
+        "question": "I meant, how much is the service for answering questions about pictures not about my backyard really. Thank you!",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006518.jpg",
+        "question": "How many keys are on this key ring?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006562.jpg",
+        "question": "how much time is left on the dishwasher",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006586.jpg",
+        "question": "How many carbohydrates are in one serving size?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006623.jpg",
+        "question": "Can you tell me how much time is left on this timer? ",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00006624.jpg",
+        "question": "How much this?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007042.jpg",
+        "question": "How much work there is required?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007065.jpg",
+        "question": "How much is the price?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007077.jpg",
+        "question": "How many games are on the fed and how late do you work tonight?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007368.jpg",
+        "question": "How much money do i have in my hand?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007382.jpg",
+        "question": "How many calories are in these chips?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007460.jpg",
+        "question": "How many more stamps do I need before I get a free coffee?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007494.jpg",
+        "question": "Tell me please how many teaspoons this is?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007517.jpg",
+        "question": "how much does this cost?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007596.jpg",
+        "question": "How many buttons does this remote control have? Let me know what each one does, beginning with top to bottom.",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007703.jpg",
+        "question": "How much money is there here please?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007838.jpg",
+        "question": "How many grams is a mince?",
+        "label": "number"
+    },
+    {
+        "image": "VizWiz_test_00007898.jpg",
+        "question": "How many fingers am I holding up?",
+        "label": "number"
+    }
+]

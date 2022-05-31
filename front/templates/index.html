@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../static/index.css">
+    <title>VQA System for Blind People</title>
+</head>
+<body>
+    <img id="logor" src="../static/logo.png" alt="YTU" style="float: right; margin-right: 15px;">
+    <img id="logol" src="../static/logo.png" alt="YTU" style="float: left; margin-right: 15px;">
+    <form method="post" enctype="multipart/form-data">
+        <div id="bottom">
+            <h3 style="text-align: center"><strong>VQA System for Blind People</strong></h3>
+            <div class="upload">
+                <img id="embed" src="#" alt="upload image"/>
+            </div>
+            <div class="upload">
+                <input type="file" accept="image/png,image/jpeg" onchange="loadFile(event)"/>
+            </div>
+            <div class="upload">
+                <input type="image" id="recbtn" src="../static/record.png" name="saveForm" class="submit" alt="REC"/>
+            </div>
+            <div class="upload">
+                <h3><strong>Result: {{ cls }}</strong></h3>
+            </div>
+            <label for="uploaded"></label><input type="text" name="uploaded" id="uploaded" value="" style="display: none"/>
+        </div>
+    </form>
+</body>
+<script>
+    const loadFile = function (event) {
+        const image = document.getElementById('embed');
+        image.src = URL.createObjectURL(event.target.files[0]);
+        console.log(event.target.files[0].name);
+        document.getElementById("uploaded").value = event.target.files[0].name;
+        console.log(document.getElementById('uploaded').value);
+    };
+</script>
+</html>

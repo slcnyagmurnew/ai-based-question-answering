@@ -1,0 +1,4237 @@
+[
+    {
+        "image": "VizWiz_test_00000000.jpg",
+        "question": "What is this? And what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000019.jpg",
+        "question": "What color are these two connectors?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000031.jpg",
+        "question": "Can you tell me what color this modem is please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000056.jpg",
+        "question": "What color are my shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000064.jpg",
+        "question": "what color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000065.jpg",
+        "question": "What color is this container?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000089.jpg",
+        "question": "What color is this skirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000130.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000140.jpg",
+        "question": "What is this color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000141.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000144.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000151.jpg",
+        "question": "What color is this shirt? What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000157.jpg",
+        "question": "Can you tell the color of these shorts?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000159.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000161.jpg",
+        "question": "Please tell me as much as you can about what these shorts look like. Are they solid? Are they plaid? What colors are in them?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000168.jpg",
+        "question": "What color is that?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000178.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000182.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000188.jpg",
+        "question": "What color is this please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000200.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000202.jpg",
+        "question": "What color is this sweater? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000205.jpg",
+        "question": "What color is this tie?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000223.jpg",
+        "question": "What color was that?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000228.jpg",
+        "question": "What color is this cartridge?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000237.jpg",
+        "question": "What's the color for this computer?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000257.jpg",
+        "question": "What color is it?  Oh, you want web workers and iq engine. So go down.  Ok now go up.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000261.jpg",
+        "question": "What color is this sweater?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000276.jpg",
+        "question": "What color is this blouse?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000280.jpg",
+        "question": "What is the color of my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000295.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000303.jpg",
+        "question": "What breed and what color is this dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000333.jpg",
+        "question": "What color is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000349.jpg",
+        "question": "What does this item look like, and what colors are in it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000351.jpg",
+        "question": "What color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000366.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000408.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000420.jpg",
+        "question": "What color is this blouse?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000424.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000425.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000441.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000442.jpg",
+        "question": "What color are these shorts?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000447.jpg",
+        "question": "What color is these beats?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000449.jpg",
+        "question": "What color is this and is it light or dark?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000454.jpg",
+        "question": "What's the color of this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000473.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000485.jpg",
+        "question": "There's a disagreement about whether my nail polish is more pink or more orange. It's supposed to be a coral. I need to know what color of clothes I would not wear with it.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000487.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000489.jpg",
+        "question": "What color shirt is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000495.jpg",
+        "question": "What color is that please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000502.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000509.jpg",
+        "question": "What color are my pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000515.jpg",
+        "question": "What color is this shoe?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000521.jpg",
+        "question": "What color is this chair? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000525.jpg",
+        "question": "What is the color of the wall in this picture?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000530.jpg",
+        "question": "What color is this shirt, and can you tell me if it's clean or not?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000536.jpg",
+        "question": "What color are these pants and what kind are they?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000551.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000575.jpg",
+        "question": "What colors do you see in this item?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000577.jpg",
+        "question": "what color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000585.jpg",
+        "question": "Color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000619.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000625.jpg",
+        "question": "Can you tell me what color this shirt is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000636.jpg",
+        "question": "What color is that please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000652.jpg",
+        "question": "What color is the mouse?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000661.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000663.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000674.jpg",
+        "question": "What color and any design?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000676.jpg",
+        "question": "What color is that please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000686.jpg",
+        "question": "Okay, I got the tshirt and a vest. It's laying on a couch, I just want to find out what colors everything is, what the picture might be on..",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000699.jpg",
+        "question": "What color is this sock?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000708.jpg",
+        "question": "What color is this wall?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000710.jpg",
+        "question": "Color is this.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000718.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000724.jpg",
+        "question": "What's the color of this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000734.jpg",
+        "question": "Can you tell me what color this t-shirt is, and what it says?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000740.jpg",
+        "question": "What color are these socks?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000742.jpg",
+        "question": "What color are these socks?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000774.jpg",
+        "question": "What color shoes am I wearing? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000782.jpg",
+        "question": "what color is my shirt",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000787.jpg",
+        "question": "What color is my pajama top?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000791.jpg",
+        "question": "What color is that shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000818.jpg",
+        "question": "What color is this please? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000822.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000830.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000849.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000851.jpg",
+        "question": "What color is this cup? I hope I got the cup.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000861.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000867.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000878.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000879.jpg",
+        "question": "I'm trying to take a picture of the chair and ottoman to put up online to sell. Is this picture in focus? Can you tell it is a chair and ottoman and what color it is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000884.jpg",
+        "question": "What color and pattern are these shorts? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000885.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000900.jpg",
+        "question": "What color is this dinosaur?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000902.jpg",
+        "question": "What color are these shorts?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000913.jpg",
+        "question": "What color is this sweater?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000917.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000922.jpg",
+        "question": "What color shoes am I wearing?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000925.jpg",
+        "question": "What is the main color of my jacket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000932.jpg",
+        "question": "What color is my dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000938.jpg",
+        "question": "What color is this candy that's in my hand?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000944.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000945.jpg",
+        "question": "what color are these trousers?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000949.jpg",
+        "question": "Colors are in these flowers on this dress.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000970.jpg",
+        "question": "please can somebody tell me the color of this shield. thank you",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000971.jpg",
+        "question": "What color is this dress? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000994.jpg",
+        "question": "What color is this product?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00000995.jpg",
+        "question": " What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001011.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001012.jpg",
+        "question": "What color is this sheet?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001027.jpg",
+        "question": "What color is this please and there might be a small pattern in it, is that true and what is it? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001041.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001050.jpg",
+        "question": "What color is this shirt and what is the writing on the shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001063.jpg",
+        "question": "Can you tell me what color this yarn is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001076.jpg",
+        "question": "What color is my jacket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001081.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001083.jpg",
+        "question": "What color are these shorts?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001090.jpg",
+        "question": "What color is this dinosaur?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001103.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001106.jpg",
+        "question": "Didn't do it.  Maybe I did.  Isn't talking to me.  What color are my pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001108.jpg",
+        "question": "What color are these?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001127.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001136.jpg",
+        "question": "What color is this sock?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001142.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001143.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001166.jpg",
+        "question": "What color are the lights on this tree?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001178.jpg",
+        "question": "What color is my socks and is it wet?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001227.jpg",
+        "question": "Hi. Could you tell me what color this shirt is, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001235.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001236.jpg",
+        "question": "What color are these sunglasses?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001243.jpg",
+        "question": "What is this, and what color is it, and what does it say on the top? That is my question, thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001252.jpg",
+        "question": "What color is my shirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001257.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001258.jpg",
+        "question": "What color are these?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001263.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001268.jpg",
+        "question": "What color are these shorts, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001274.jpg",
+        "question": "What color is this product?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001280.jpg",
+        "question": "What color are these shorts?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001288.jpg",
+        "question": "Sorry about that. I did it wrong before. I'm trying to figure out how -- I mean what -- the shirt that I just sent the photo of, what would that go best with? Number one, what color is the shirt? Number two, would that go best with a gray suit or a blue suit? Sorry.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001295.jpg",
+        "question": "What color is the shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001306.jpg",
+        "question": "What color is that please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001312.jpg",
+        "question": "What color is my desk?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001351.jpg",
+        "question": "What color is this sweater?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001364.jpg",
+        "question": "What color is this guy's shirt",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001378.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001383.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001384.jpg",
+        "question": "What color is this? I wanna see what happens.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001385.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001389.jpg",
+        "question": "What color is this shirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001415.jpg",
+        "question": "What color is this rug?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001416.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001418.jpg",
+        "question": "What color is this candle?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001424.jpg",
+        "question": "Can you tell me if you see any kind of writing or color change on the screen for me, please? I'm having problems with my TV.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001428.jpg",
+        "question": "What color are my curtains?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001446.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001449.jpg",
+        "question": "What color is these beads?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001455.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001462.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001475.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001490.jpg",
+        "question": "Hi, could you please tell me what color these trousers are?  Thanks",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001502.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001509.jpg",
+        "question": "WHAT COLOR IS THIS PLEASE?  THANK YOU.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001513.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001517.jpg",
+        "question": "what color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001530.jpg",
+        "question": "What is the color of this laptop?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001548.jpg",
+        "question": "What color is this t-shirt? Thank you. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001556.jpg",
+        "question": "There is a shirt and a tank top here.  Are they the same color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001558.jpg",
+        "question": "what color is that pillow",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001587.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001598.jpg",
+        "question": "What color are these slacks?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001601.jpg",
+        "question": "What color is this shirt?. I think it's black.Oh, yes mam. three one five",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001602.jpg",
+        "question": "Can you tell what color my hair is this time in this picture?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001605.jpg",
+        "question": "What color are the toenails?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001607.jpg",
+        "question": "Is this color light?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001618.jpg",
+        "question": "What color are my jeans?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001620.jpg",
+        "question": "what color is this pen?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001650.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001655.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001661.jpg",
+        "question": "What color is this medicine chest?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001668.jpg",
+        "question": "I think this is a keyboard.  What color are the keys?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001706.jpg",
+        "question": "What color is it please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001707.jpg",
+        "question": "Color of my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001711.jpg",
+        "question": "What color is this shirt, and do there appear to be stains on it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001720.jpg",
+        "question": "What is the color of this blouse?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001740.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001762.jpg",
+        "question": "What color is this bandanna?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001786.jpg",
+        "question": "Please tell me what color this is and what it says. That's a lot of questions. Usually I just ask the color.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001792.jpg",
+        "question": "What is the color of this wall?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001820.jpg",
+        "question": "What is the color of this laptop?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001839.jpg",
+        "question": "What color is this shirt? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001850.jpg",
+        "question": "I'm visually impaired and I want to see if my shirt matches. What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001866.jpg",
+        "question": "What color, what color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001868.jpg",
+        "question": "What colors are this hat?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001879.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001907.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001912.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001955.jpg",
+        "question": "Hello could you please tell me the color of this cable? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001959.jpg",
+        "question": "What color is this material please? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001960.jpg",
+        "question": "What color is this shirt and tie?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00001995.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002002.jpg",
+        "question": "What color are these shoes and top?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002013.jpg",
+        "question": "What colors are in this sweater?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002015.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002020.jpg",
+        "question": "What color is the shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002037.jpg",
+        "question": "Okay, same question, can you see the colors of the shirt and I've taken a far much closer picture than I previously did. Let me know what you can see, thanks.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002042.jpg",
+        "question": "What color are my pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002043.jpg",
+        "question": "What color are my trousers?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002051.jpg",
+        "question": "What color is that?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002082.jpg",
+        "question": "What kind of ipad is this? And what color is it in?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002083.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002084.jpg",
+        "question": "What color is that?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002096.jpg",
+        "question": "Can you please tell me what color this is? Thank you. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002104.jpg",
+        "question": "What color hair is this",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002122.jpg",
+        "question": "What color jacket is the person in front of me wearing?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002173.jpg",
+        "question": "What is on the pennant on the wall?  And tell me the colors.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002190.jpg",
+        "question": "What color is this t-shirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002194.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002198.jpg",
+        "question": "What color of this yogurt is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002218.jpg",
+        "question": "What color is this blanket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002224.jpg",
+        "question": "what color is this dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002237.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002239.jpg",
+        "question": "What is that and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002243.jpg",
+        "question": "What color is this pen?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002274.jpg",
+        "question": "What color are these canisters?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002278.jpg",
+        "question": "What color is my digital recorder?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002284.jpg",
+        "question": "there are 2 shirts one on the left and one on the right what color are they",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002308.jpg",
+        "question": "what color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002313.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002321.jpg",
+        "question": "What color is this shirt?  Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002323.jpg",
+        "question": "What color are the flowers in the vase?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002324.jpg",
+        "question": "What color is the box?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002334.jpg",
+        "question": "Could you please tell me what color these beads are?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002343.jpg",
+        "question": "What color are these shoelaces?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002345.jpg",
+        "question": "What color is this sheet?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002347.jpg",
+        "question": "what color are these beads ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002358.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002360.jpg",
+        "question": "What colors are in this sweater?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002364.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002365.jpg",
+        "question": "what color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002373.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002377.jpg",
+        "question": "color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002379.jpg",
+        "question": "What color is this cat?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002399.jpg",
+        "question": "What color is this yarn?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002402.jpg",
+        "question": "What color are these?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002403.jpg",
+        "question": "Could you tell me what color this jumper is please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002404.jpg",
+        "question": "What color is that please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002416.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002423.jpg",
+        "question": "What color are these pants? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002426.jpg",
+        "question": "I was wondering if she's wearing camo, and if so what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002428.jpg",
+        "question": "What color is this sweatshirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002434.jpg",
+        "question": "What color is the ceiling and how many lights are up there?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002435.jpg",
+        "question": "What color is this skirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002447.jpg",
+        "question": "Color is the keyboard.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002457.jpg",
+        "question": "What color is the bed spread?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002458.jpg",
+        "question": "What color and kind is my floor?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002480.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002485.jpg",
+        "question": "What color is the cup?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002505.jpg",
+        "question": "What color is that shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002507.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002513.jpg",
+        "question": "What color is the light?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002526.jpg",
+        "question": "What color is this case?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002527.jpg",
+        "question": "what color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002533.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002560.jpg",
+        "question": "What color are my shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002564.jpg",
+        "question": "What color is the dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002581.jpg",
+        "question": "What color is this shirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002582.jpg",
+        "question": "Do you think this shirt would go with these jeans, and if you could confirm the color of the shirt, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002597.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002610.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002627.jpg",
+        "question": "How many colored connectors are on the back of that device?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002628.jpg",
+        "question": "What color is this shirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002643.jpg",
+        "question": "WHAT COLOR IS THIS USB FLASH DRIVE?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002649.jpg",
+        "question": "What color is this beer?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002663.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002666.jpg",
+        "question": "What color is this t-shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002667.jpg",
+        "question": "What color shirt is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002668.jpg",
+        "question": "What kind of shoe is this, and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002670.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002680.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002687.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002698.jpg",
+        "question": "What color is this jacket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002708.jpg",
+        "question": "What color is this shirt? Thanks.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002738.jpg",
+        "question": "What color is this sweater?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002745.jpg",
+        "question": "What is the color and design on this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002747.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002753.jpg",
+        "question": "What colors are in the material?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002761.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002762.jpg",
+        "question": "what color is tis plate?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002768.jpg",
+        "question": "I think I got the answer to somebody else s question, I'm not sure. Could you please tell me what color this shirt is? Thank You",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002774.jpg",
+        "question": "What colors are in this material? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002788.jpg",
+        "question": "What is the color on the brand?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002798.jpg",
+        "question": "What color is this skirt, please? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002811.jpg",
+        "question": "what color is this shirt",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002827.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002828.jpg",
+        "question": "was the color is my polo set? thank you!",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002831.jpg",
+        "question": "What color and kind of dog is that?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002836.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002842.jpg",
+        "question": "What color is my shoe?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002851.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002857.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002870.jpg",
+        "question": "What color is this shirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002873.jpg",
+        "question": "Can you see it? What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002899.jpg",
+        "question": "What color are the pans in the photo?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002900.jpg",
+        "question": "What color is this mug?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002906.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002907.jpg",
+        "question": "What color is the dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002927.jpg",
+        "question": "What color is this? Are you coming to our Christmas party on the 19th?Nobody told me nothing. They'll tell you eventually.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002935.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002953.jpg",
+        "question": "What color is this curtain?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002957.jpg",
+        "question": "What color are these pants please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002960.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002964.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002967.jpg",
+        "question": "Hello could you please tell me what color that is? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002974.jpg",
+        "question": "Please describe what is on the counter and also color of counter and tiles and anything else you can see, thank you very much.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002982.jpg",
+        "question": "What color is this phone case?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002983.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002986.jpg",
+        "question": "What is this and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00002997.jpg",
+        "question": "What color are these pants? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003014.jpg",
+        "question": "What color jammies is my granddaughter wearing?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003035.jpg",
+        "question": "What color is this t-shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003052.jpg",
+        "question": "What color is the tablecloth?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003056.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003057.jpg",
+        "question": "What color is this wall?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003058.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003060.jpg",
+        "question": "What's the color of this table cover?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003071.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003080.jpg",
+        "question": "what color is this one?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003084.jpg",
+        "question": "What color is the dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003085.jpg",
+        "question": "What color is the doll?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003087.jpg",
+        "question": "what's the color of the animal",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003095.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003097.jpg",
+        "question": "what color is this sweatshirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003102.jpg",
+        "question": "What is the color of this flower on the book?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003110.jpg",
+        "question": "What color is this Christmas paper?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003113.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003121.jpg",
+        "question": "Could you tell me which color of shirt this is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003150.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003153.jpg",
+        "question": "What color is this shirt, and does it have a pattern?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003164.jpg",
+        "question": "what color is the t-shirt",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003170.jpg",
+        "question": "Hello. Could you please tell me what color that is? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003177.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003181.jpg",
+        "question": "In the last picture I sent, what color pants would you wear with this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003190.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003198.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003225.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003226.jpg",
+        "question": "Tell me the color of this tie.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003237.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003246.jpg",
+        "question": "What colors are in this rug?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003263.jpg",
+        "question": "What color is the pillow case?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003272.jpg",
+        "question": "What color is this one?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003279.jpg",
+        "question": "What color is this marker?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003286.jpg",
+        "question": "Could you tell me what color these beads are please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003292.jpg",
+        "question": "What color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003293.jpg",
+        "question": "What is the color of my foot?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003339.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003341.jpg",
+        "question": "What color is these jeans please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003343.jpg",
+        "question": "What color are my pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003365.jpg",
+        "question": "What size is this and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003380.jpg",
+        "question": "What color is this shirt and what does it say?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003389.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003404.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003407.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003417.jpg",
+        "question": "Hi I turned on a light, can you tell me color color this outfit is I'm wearing? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003446.jpg",
+        "question": "What color is this hair?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003454.jpg",
+        "question": "Could you tell me what the eye color of this cat is? It's a stray.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003469.jpg",
+        "question": "What color socks are these?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003473.jpg",
+        "question": "What color is that shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003491.jpg",
+        "question": "What color is my top?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003496.jpg",
+        "question": "What color are these three wires from left to right?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003501.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003504.jpg",
+        "question": "Thanks for telling me what color the iPad case is. I'm afraid I don't know what kind of color fuschia or maroon are. Is it a pinky color or a red color or a greeny color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003505.jpg",
+        "question": "What is the color of the glasses and the frame?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003538.jpg",
+        "question": "Thanks a lot, could another web person please look at the color of my shirt, and thank you very much, you can't rely on those color identifiers",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003546.jpg",
+        "question": "Which color is this shirt, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003553.jpg",
+        "question": "What color sheet is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003555.jpg",
+        "question": "What color are the washcloths?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003557.jpg",
+        "question": "Can you tell the color of the eye shadow please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003575.jpg",
+        "question": "What is the color of this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003584.jpg",
+        "question": "What color is this couch?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003591.jpg",
+        "question": "What color are the bracelets?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003592.jpg",
+        "question": "What color is this cover?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003593.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003613.jpg",
+        "question": "Could you please tell me what color the bracelet is that I'm wearing. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003642.jpg",
+        "question": "What color is my dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003665.jpg",
+        "question": "Are you able to tell me the color of this tee shirt and if you can read what the logo says on the front, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003669.jpg",
+        "question": "There are two shirts what color is the shirt on the left and on the right?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003702.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003707.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003716.jpg",
+        "question": "What color is this shirt, and what does it say?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003727.jpg",
+        "question": "What color is this railing?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003728.jpg",
+        "question": "What color is that wall?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003735.jpg",
+        "question": "What color is this iPad case?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003743.jpg",
+        "question": "What color is the wall?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003759.jpg",
+        "question": "What color are these shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003762.jpg",
+        "question": "What color are my toenails?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003786.jpg",
+        "question": "What color is this lid?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003804.jpg",
+        "question": "What color cup is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003813.jpg",
+        "question": "What color is the bow?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003859.jpg",
+        "question": "What color are they?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003863.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003878.jpg",
+        "question": "What color is my shirt and necklace?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003880.jpg",
+        "question": "What color is this sandal?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003888.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003895.jpg",
+        "question": "what color is this hat also is there writing?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003907.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003923.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003924.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003936.jpg",
+        "question": "What color is this sweat shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003942.jpg",
+        "question": "What is the color and the pattern of this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003948.jpg",
+        "question": "what color is my mug?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003959.jpg",
+        "question": "What color is this ring?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003969.jpg",
+        "question": "What color is that please. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003973.jpg",
+        "question": "what is the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003975.jpg",
+        "question": "Can you please tell me what kind of wine this is? Color and name if possible, thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003978.jpg",
+        "question": "Is this a dark blue jacket? I need to know the color.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003980.jpg",
+        "question": "What colors are the smarties?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00003981.jpg",
+        "question": "This is jeans but i'm not sure what color it is.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004008.jpg",
+        "question": "What color is this sweater? Thank you for your help.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004046.jpg",
+        "question": "Is this skein of yarn have rainbow colors in it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004052.jpg",
+        "question": "What is the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004061.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004068.jpg",
+        "question": "I put this skirt in the light and I need to know what color it is, I don't think I own a gray skirt.  Is it blue or is it black? Thanks.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004069.jpg",
+        "question": "Which color does the carpet have?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004077.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004082.jpg",
+        "question": "Oh hello there I've got some trousers here I don't know what condition they're in and also what color. Let me know be honest, I'm gonna be buying some more clothes so give me you honest opinion here.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004098.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004106.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004112.jpg",
+        "question": "What is the color of the chair and what is the color of the table?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004146.jpg",
+        "question": "Which color paper cup am i using?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004154.jpg",
+        "question": "What's the color of this shirt, please? Thank you. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004188.jpg",
+        "question": "Color are these shoes please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004189.jpg",
+        "question": "What is the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004191.jpg",
+        "question": "what color is the blankets",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004201.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004204.jpg",
+        "question": "what color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004222.jpg",
+        "question": "Hey, what color is this blanket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004235.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004250.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004287.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004291.jpg",
+        "question": "What color is this duvet?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004314.jpg",
+        "question": "Which color is the car?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004330.jpg",
+        "question": "What color is this bed?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004336.jpg",
+        "question": "What color is the clock display?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004337.jpg",
+        "question": "What color is that",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004347.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004356.jpg",
+        "question": "What colors are in the picture?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004366.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004377.jpg",
+        "question": "What's the color of this table cover?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004388.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004414.jpg",
+        "question": "What color is my jacket please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004421.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004430.jpg",
+        "question": "what color are these?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004438.jpg",
+        "question": "What is on this jump out, and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004452.jpg",
+        "question": "What is it? What color is it? Hold on, it's on an app dad. I'm not actually talking..",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004453.jpg",
+        "question": "Can you tell what color this fabric is? I think it's a python print. Is it? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004455.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004456.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004462.jpg",
+        "question": "What color is the shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004465.jpg",
+        "question": "Hi, could you please tell which color my sister is wearing? Which color her shirt is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004481.jpg",
+        "question": "What color are my shirt and pants and do they go together?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004498.jpg",
+        "question": "What is that in front me and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004503.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004513.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004515.jpg",
+        "question": "What color is this room?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004520.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004523.jpg",
+        "question": "Yes, can you please tell me what color this shirt is, and does it have any writing on it? Thank you very much.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004529.jpg",
+        "question": "What color is this bone?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004543.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004577.jpg",
+        "question": "What color is that please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004594.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004603.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004605.jpg",
+        "question": "color is this what color is this",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004613.jpg",
+        "question": "What color are the feathers?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004618.jpg",
+        "question": "What color are my nails?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004622.jpg",
+        "question": "What colors are in this picture?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004627.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004636.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004669.jpg",
+        "question": "What color is this towel?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004679.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004682.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004694.jpg",
+        "question": "What is this a color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004720.jpg",
+        "question": "What color is my jeans?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004723.jpg",
+        "question": "Can you tell me which color my t-shirt has? If you can see it that is.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004727.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004736.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004765.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004768.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004774.jpg",
+        "question": "What color is this jacket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004781.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004786.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004796.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004824.jpg",
+        "question": "What color is this sock?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004839.jpg",
+        "question": "What color is this dog? It's a Yorkie.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004843.jpg",
+        "question": "What color are these shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004849.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004855.jpg",
+        "question": "What color is this paper?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004857.jpg",
+        "question": "What color is this jacket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004860.jpg",
+        "question": "Color is the car?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004883.jpg",
+        "question": "What color is the cup?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004885.jpg",
+        "question": "What color am I wearin?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004895.jpg",
+        "question": "What is the color of the curtains?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004901.jpg",
+        "question": "What color is that please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004911.jpg",
+        "question": "What other colors are in the skirt besides black?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004930.jpg",
+        "question": "what color is this door?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004946.jpg",
+        "question": "Can you tell me what the color",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004948.jpg",
+        "question": "Could you please tell me what color these pants are?  Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004955.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004967.jpg",
+        "question": "What color is this hair tie?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004983.jpg",
+        "question": "What color is my lamp?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00004986.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005008.jpg",
+        "question": "What's color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005009.jpg",
+        "question": "Is this color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005020.jpg",
+        "question": "What color is this and what does it say?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005032.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005040.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005043.jpg",
+        "question": "what color is my dog please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005051.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005069.jpg",
+        "question": "What color is these jeans?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005078.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005086.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005089.jpg",
+        "question": "What color is that, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005104.jpg",
+        "question": "What color is ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005105.jpg",
+        "question": "What color is this pair of sweats?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005111.jpg",
+        "question": "What color is this sock?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005114.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005117.jpg",
+        "question": "Sandy, what color is in the middle and the other three rows? It should be, the middle should be blue",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005126.jpg",
+        "question": "What color is his shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005127.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005149.jpg",
+        "question": "What is this color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005154.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005166.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005183.jpg",
+        "question": "What color is the shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005184.jpg",
+        "question": "What color is that shirt? What color is that shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005191.jpg",
+        "question": "What color is this material?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005222.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005223.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005227.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005234.jpg",
+        "question": "What color are these stones?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005248.jpg",
+        "question": "What color is the moon?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005249.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005252.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005253.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005279.jpg",
+        "question": "What color is this, and is it big?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005294.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005308.jpg",
+        "question": "Describe this garment color, please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005316.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005317.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005319.jpg",
+        "question": "What color are these socks? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005324.jpg",
+        "question": "What color are my jeans? What color are my jeans?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005340.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005360.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005363.jpg",
+        "question": "What color is this shirt and what is the logo on it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005365.jpg",
+        "question": "What is the color of the box here?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005381.jpg",
+        "question": "what color is that?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005385.jpg",
+        "question": "Can you tell me what color this modem is please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005388.jpg",
+        "question": "What color is the cup?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005389.jpg",
+        "question": "What fabric is this and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005408.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005427.jpg",
+        "question": "What is the color of this iPhone cover?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005431.jpg",
+        "question": "what color is this dress?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005469.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005471.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005480.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005490.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005494.jpg",
+        "question": "What color is this shirt, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005501.jpg",
+        "question": "Could you tell me what color this crotchet piece of yarn is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005504.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005515.jpg",
+        "question": "What color is this shoe?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005517.jpg",
+        "question": "What color is this hair?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005536.jpg",
+        "question": "What is the color of the sheet?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005538.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005546.jpg",
+        "question": "What color is this shirt? Thanks.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005571.jpg",
+        "question": "What color is the egg?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005576.jpg",
+        "question": "What is the color of these shorts?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005579.jpg",
+        "question": "Is there anything you can glean from this screen?  What is on it?  Can you maybe describe the color?  Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005592.jpg",
+        "question": "Color of top, thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005594.jpg",
+        "question": "What color are these pants",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005606.jpg",
+        "question": "What color is this yarn please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005610.jpg",
+        "question": "What color is the bedspread?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005611.jpg",
+        "question": "What color is that?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005615.jpg",
+        "question": "What color this my things?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005634.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005648.jpg",
+        "question": "What color are the scales?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005652.jpg",
+        "question": "Regina Alvarado. I'm part of the clothing study. What is the color of this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005654.jpg",
+        "question": "Can you tell me what color this dress is, please? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005657.jpg",
+        "question": "What color and pattern?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005660.jpg",
+        "question": "What color is the shoe in this picture?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005668.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005685.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005688.jpg",
+        "question": "What color is this yarn?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005694.jpg",
+        "question": "What what what color is my dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005695.jpg",
+        "question": "Can you please tell me what color this shirt is, and what's on it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005706.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005712.jpg",
+        "question": "what color is this yarn?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005727.jpg",
+        "question": "What color are these flowers?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005734.jpg",
+        "question": "What color is the shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005739.jpg",
+        "question": "Do you see a color code?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005760.jpg",
+        "question": "What color is this USB flash drive?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005793.jpg",
+        "question": "What colors do my nails have on them?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005799.jpg",
+        "question": "What color is this belt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005800.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005806.jpg",
+        "question": "what color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005810.jpg",
+        "question": "what color are these ones",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005822.jpg",
+        "question": "What color is this chair?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005838.jpg",
+        "question": "What color are these headphones?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005866.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005867.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005868.jpg",
+        "question": "What color is the table?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005871.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005874.jpg",
+        "question": "What color is this polo shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005882.jpg",
+        "question": "What color is this top?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005884.jpg",
+        "question": "What color is the drinking glass?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005918.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005925.jpg",
+        "question": "What color is this bird?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005938.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005946.jpg",
+        "question": "What color is this, and what is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005951.jpg",
+        "question": "What color is this, please?  Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005956.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005962.jpg",
+        "question": "What color are my shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005972.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005977.jpg",
+        "question": "What color is this pepper.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005984.jpg",
+        "question": "What color are the beads?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005989.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005993.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00005994.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006060.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006070.jpg",
+        "question": "What color am I wearing?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006074.jpg",
+        "question": "What color is this quilt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006087.jpg",
+        "question": "What's the color of the handle on this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006092.jpg",
+        "question": "What color are these?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006108.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006111.jpg",
+        "question": "What color are these?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006133.jpg",
+        "question": "What color are these shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006134.jpg",
+        "question": "What color is this skirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006135.jpg",
+        "question": "What color is this item?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006152.jpg",
+        "question": "What color is this product?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006161.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006174.jpg",
+        "question": "What color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006177.jpg",
+        "question": "What color is this bag? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006184.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006185.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006191.jpg",
+        "question": "what color is my pants",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006207.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006208.jpg",
+        "question": "What color is the floor?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006210.jpg",
+        "question": "Could you please tell me what color this is skirt is that I'm wearing, thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006221.jpg",
+        "question": "what is the color of this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006250.jpg",
+        "question": "What color is this dog.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006255.jpg",
+        "question": "What color is this wallpaper?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006259.jpg",
+        "question": "What color is the cup",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006261.jpg",
+        "question": "What color polish is this in?  evenant.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006264.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006294.jpg",
+        "question": "What color is this pitcher?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006304.jpg",
+        "question": "What color is this? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006305.jpg",
+        "question": "What colors are in this dress?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006313.jpg",
+        "question": "What color is my tie?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006318.jpg",
+        "question": "What color is this table? And describe it please. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006330.jpg",
+        "question": "What color wire was I holding, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006343.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006344.jpg",
+        "question": "What color is this yarn?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006348.jpg",
+        "question": "What color is this bedspread?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006350.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006353.jpg",
+        "question": "Could you tell me the color of this shirt, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006362.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006365.jpg",
+        "question": "Hello, could you please tell me what color is this? Thank you. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006367.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006380.jpg",
+        "question": "What color are my sneakers? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006383.jpg",
+        "question": "What color is this case?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006384.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006390.jpg",
+        "question": "What color is this? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006393.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006400.jpg",
+        "question": "Color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006402.jpg",
+        "question": "Hi, I know the print is small but can you read what color this outfit is on the label I just took a picture of? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006405.jpg",
+        "question": "How does this plant look like? Colors and that kind of thing. Thanks.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006413.jpg",
+        "question": "What color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006418.jpg",
+        "question": "What color is this case?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006423.jpg",
+        "question": "What color is the belt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006441.jpg",
+        "question": "What color is the purse?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006451.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006453.jpg",
+        "question": "What color is this shoe?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006462.jpg",
+        "question": "What color is the belt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006463.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006466.jpg",
+        "question": "Can you tell me what color that shirt is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006470.jpg",
+        "question": "Could you please tell me what color that is? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006492.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006504.jpg",
+        "question": "What color are these boots?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006514.jpg",
+        "question": "It's the color. ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006536.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006537.jpg",
+        "question": "Can you tell me what colors these two ink cartridges are, please? Thanks.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006540.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006546.jpg",
+        "question": "Hi, could you tell which color my dog is? Because I think it is brown but I am not sure.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006553.jpg",
+        "question": "What color is the dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006561.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006587.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006593.jpg",
+        "question": "Is my fan on and what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006603.jpg",
+        "question": "WHAT COLOR IS THE DRYWIN MY HAND?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006607.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006608.jpg",
+        "question": "What color is this yarn?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006637.jpg",
+        "question": "What is the color, suit, and value of this card?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006638.jpg",
+        "question": "What color of Gatorade is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006639.jpg",
+        "question": "What color is pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006645.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006651.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006652.jpg",
+        "question": "What color is this shoe?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006658.jpg",
+        "question": "What is this and what is the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006673.jpg",
+        "question": "What color is this blouse?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006686.jpg",
+        "question": "Could you tell me what color this skirt is please? thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006687.jpg",
+        "question": "Could you describe the colors of this polo shirt to me please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006706.jpg",
+        "question": "What color are the lights on the rectangle? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006708.jpg",
+        "question": "What color is this, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006741.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006757.jpg",
+        "question": "Wall colors and ceiling fan.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006758.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006766.jpg",
+        "question": "What color is this letter?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006775.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006784.jpg",
+        "question": "What color is this? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006786.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006796.jpg",
+        "question": "What color is this shirt, thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006803.jpg",
+        "question": "Pattern and color of this dress shirt, please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006816.jpg",
+        "question": "what color is the rug",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006858.jpg",
+        "question": "What color are my shoes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006875.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006884.jpg",
+        "question": "I know its a keyboard but what color is it",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006885.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006892.jpg",
+        "question": "What color is Emma wearing?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006898.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006900.jpg",
+        "question": "What color is my jacket? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006911.jpg",
+        "question": "What color is the table?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006944.jpg",
+        "question": "Please can you tell me what color the carpet is? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006952.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006966.jpg",
+        "question": "What color is the cloth and the necklace?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006973.jpg",
+        "question": "What's the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006982.jpg",
+        "question": "What color is the shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006986.jpg",
+        "question": "What color are my pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006992.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00006995.jpg",
+        "question": "Please give me a full description of this book. The colors, the text on it and all that stuff please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007007.jpg",
+        "question": "Could you please tell me what color this is? What it is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007010.jpg",
+        "question": "Can you tell me what color this ball of yarn is, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007013.jpg",
+        "question": "What is the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007022.jpg",
+        "question": "What color is this wire?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007027.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007050.jpg",
+        "question": "What color is this and what does it look like? Will it be checkers or stripes?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007062.jpg",
+        "question": "What color are these jeans?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007067.jpg",
+        "question": "What color is this product?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007068.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007094.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007095.jpg",
+        "question": "What's the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007102.jpg",
+        "question": "What color is this t-shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007105.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007107.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007115.jpg",
+        "question": "What is that color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007134.jpg",
+        "question": "What colors are in this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007135.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007146.jpg",
+        "question": "What color is this wallet? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007154.jpg",
+        "question": "Which one of these is the colored ink cartridge and which one is the black and white cartridge? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007171.jpg",
+        "question": "What color is my shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007187.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007188.jpg",
+        "question": "What color are these pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007200.jpg",
+        "question": "Please, what the color of this clothes. Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007207.jpg",
+        "question": "What color are the sunglasses? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007216.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007240.jpg",
+        "question": "What color is this T shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007257.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007260.jpg",
+        "question": "Good afternoon. I have a tea cozy here. Which I don't know what color it is. So if you can tell me. I need to know where I can put it in a colored or white wash.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007265.jpg",
+        "question": "What color is this shirt, and what is on this shirt?  That is my question.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007267.jpg",
+        "question": "What color is my pants?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007269.jpg",
+        "question": "What colors do you see in this item.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007270.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007292.jpg",
+        "question": "What color is that coat?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007302.jpg",
+        "question": "What color are these dogs?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007321.jpg",
+        "question": "What color is this material?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007322.jpg",
+        "question": "what color is this fabric?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007341.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007348.jpg",
+        "question": "What color are these flowers?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007379.jpg",
+        "question": "the color is correct but they are pants, and they're actually corduroy.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007395.jpg",
+        "question": "What this color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007404.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007414.jpg",
+        "question": "What color is the back of this jacket?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007418.jpg",
+        "question": "Please tell me what color the fabric is in this picture if you can see it. I might have messed up the picture.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007425.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007433.jpg",
+        "question": "What color is the candles?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007434.jpg",
+        "question": "What color is this hat?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007455.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007457.jpg",
+        "question": "What color is this persons hair?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007468.jpg",
+        "question": "What design and colors are in this item?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007478.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007481.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007489.jpg",
+        "question": "What color this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007492.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007502.jpg",
+        "question": "It takes a little bit, though, you gotta wait a little bit. I think this was the best color idea I found.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007506.jpg",
+        "question": "what kind of shirt do i have and what color is it",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007523.jpg",
+        "question": "what color is this dinosaur?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007535.jpg",
+        "question": "What color is the wall?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007536.jpg",
+        "question": "What color is the couch?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007538.jpg",
+        "question": "What color is this sweater?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007545.jpg",
+        "question": "what color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007549.jpg",
+        "question": "Is this color blue or purple? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007551.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007556.jpg",
+        "question": "What color is it, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007569.jpg",
+        "question": "What color is that dog?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007572.jpg",
+        "question": "I have moved the camera further away so what is the color now?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007579.jpg",
+        "question": "What color is this hoodie?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007586.jpg",
+        "question": "What color is this bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007594.jpg",
+        "question": "What color is that bedspread?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007599.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007608.jpg",
+        "question": "What color is this polo shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007610.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007619.jpg",
+        "question": "What color is the cat?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007628.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007630.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007637.jpg",
+        "question": "What color is this pillow?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007649.jpg",
+        "question": "What is the image on this paper and the colors?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007664.jpg",
+        "question": "What color is the cat?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007670.jpg",
+        "question": "What color is this skirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007672.jpg",
+        "question": "What color is this pen?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007688.jpg",
+        "question": "Let's try one more time. What color is my pants? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007692.jpg",
+        "question": "What color is this top?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007700.jpg",
+        "question": "What color are the socks?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007735.jpg",
+        "question": "Can you tell me the color of this shirt and what's on the front? There's something on the front of it and I want to know the color of the shirt as well, please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007736.jpg",
+        "question": "what color are these ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007739.jpg",
+        "question": "Hello.  I hope you can hear this photo.  I'm curious to know whether or not the leaves are turning color yet, it's autumn here in Louisiana.  Thanks in advance.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007759.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007762.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007776.jpg",
+        "question": "What color are my shorts?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007780.jpg",
+        "question": "Is the color of this shirt white? If not white, what is the color?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007789.jpg",
+        "question": "What color are them dogs?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007802.jpg",
+        "question": "What color is this yarn?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007816.jpg",
+        "question": "What color has my pullover?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007825.jpg",
+        "question": "What color is this duffle bag?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007826.jpg",
+        "question": "Can you tell me how long this womans hair is and what color it is?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007831.jpg",
+        "question": "What color is this?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007832.jpg",
+        "question": "What color is this shirt?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007837.jpg",
+        "question": "What color is my cat? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007845.jpg",
+        "question": "Could you please tell me what color this skirt is? Thank you.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007856.jpg",
+        "question": "It says recording. What color is this marker?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007857.jpg",
+        "question": "What color is this shirt? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007863.jpg",
+        "question": "What color is this wallet?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007873.jpg",
+        "question": "What color is this sandal, please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007875.jpg",
+        "question": "What color is this vase?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007882.jpg",
+        "question": "Let's try one more time, what color is my pants? ",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007883.jpg",
+        "question": "What color is this one?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007912.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007918.jpg",
+        "question": "What color is it?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007923.jpg",
+        "question": "Can you tell the colors please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007926.jpg",
+        "question": "What color are these ties?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007931.jpg",
+        "question": "What type of bird is this? And the colors in it please.",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007944.jpg",
+        "question": "What color is this hair brush?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007947.jpg",
+        "question": "What color is this skirt please?",
+        "label": "color"
+    },
+    {
+        "image": "VizWiz_test_00007967.jpg",
+        "question": "What color is this? Thank you.",
+        "label": "color"
+    }
+]
