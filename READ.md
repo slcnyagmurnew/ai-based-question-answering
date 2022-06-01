@@ -1,9 +1,8 @@
-- To download nltk tools:
-    
+- To download nltk tools run:
+```angular2html
+python3 nlp/download.py
 ```
-import nltk
-nltk.download("all")
-```
+See downloads on home directory with name **nltk_data**.
 
 ### Usage
 - data_operations.py file:
@@ -14,9 +13,20 @@ The **data** directory contains the different categories of questions obtained i
 
 Performs the train operation of the bert model and saves the resulting model.
 
+### System Requirements
+Download PyAudio for speech recognition **(on Ubuntu)**.
+
+```angular2html
+sudo apt-get install portaudio19-dev python3-pyaudio
+```
+Then install requirements with:
+
+```angular2html
+pip3 install -r requirements.txt
+```
 ### Run
 
-Use **flask run** command to start service (in front directory).
+Use **flask run** command to start service **(in front directory)**.
 
 ```
 flask run

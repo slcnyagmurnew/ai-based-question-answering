@@ -3,35 +3,71 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="../static/index.css">
-    <title>VQA System for Blind People</title>
+    <title>VQA System</title>
+    <style>
+        footer {
+            position: fixed;
+            padding: 10px 10px 10px 10px;
+            bottom: 0;
+            width: 100%;
+            height: 40px;
+            /*background: white;*/
+        }
+
+        body {
+                background-image: url('../static/background.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-position: center;
+                /*opacity: 0.5;*/
+                /*background-color: white;*/
+                ;
+            ;}
+
+    </style>
 </head>
 <body>
-    <img id="logor" src="../static/logo.png" alt="YTU" style="float: right; margin-right: 15px;">
-    <img id="logol" src="../static/logo.png" alt="YTU" style="float: left; margin-right: 15px;">
+    <img id="logor" src="../static/ytulogo.png" alt="YTU" style="float: right; margin-left: 15px; height: 300px; width: 300px">
+    <img id="logol" src="../static/ytulogo.png" alt="YTU" style="float: left; margin-right: 15px; height: 300px; width: 300px">
+    <div class="header">
+                    <h1 style="text-align: center"  class="text-muted">Visual Question and Answering System</h1>
+                </div>
+                    <div class="jumbotron">
+                        <h2 style="text-align: center" >Senior Project</h2>
+                        <p class="lead"></p>
+                </div>
+<!--    <div class="container">-->
+<!--        <h2 style="text-align: center; font-family: 'Ubuntu Mono',serif; padding-bottom: 100px;"><strong>BLM9000 - Senior Project</strong></h2>-->
+<!--        <h3 style="text-align: center; font-family: 'Ubuntu Mono',serif; padding-bottom: 100px;"><strong>VQA System for Blind People</strong></h3>-->
+<!--    </div>-->
     <form method="post" enctype="multipart/form-data">
         <div id="bottom">
-            <h3 style="text-align: center"><strong>VQA System for Blind People</strong></h3>
             <div class="upload">
-                <img id="embed" src="#" alt="upload image"/>
+                <img id="embed" src="{{ predicted_image }}" style="width: 350px; height: 350px;" alt="image"/>
             </div>
             <div class="upload">
-                <input type="file" accept="image/png,image/jpeg" onchange="loadFile(event)"/>
+                <input type="file" style="color:transparent; width:105px; height: 40px; font-size: 16px" accept="image/png,image/jpeg" onchange="loadFile(event)"/>
             </div>
             <div class="upload">
-                <input type="image" id="recbtn" src="../static/record.png" name="saveForm" class="submit" alt="REC"/>
+                <input type="image" style="height: 60px; width: 60px;" id="recbtn" src="../static/audio.jpg" name="saveForm" class="submit" alt="REC"/>
             </div>
             <div class="upload">
-                <h3><strong>Result: {{ cls }}</strong></h3>
+                <h3 style="font-size: large;"><strong>Result: {{ cls }}</strong></h3>
             </div>
             <label for="uploaded"></label><input type="text" name="uploaded" id="uploaded" value="" style="display: none"/>
         </div>
     </form>
+    <footer style="text-align: center" class="footer">
+        <p>&copy; YTU Computer Engineering 2022 - Senior Project </p>
+    </footer>
 </body>
 <script>
     const loadFile = function (event) {
         const image = document.getElementById('embed');
         image.src = URL.createObjectURL(event.target.files[0]);
-        console.log(event.target.files[0].name);
+        // image.style.height = '350px';
+        // image.style.width = '350px';
+        // console.log(event.target.files[0].name);
         document.getElementById("uploaded").value = event.target.files[0].name;
         console.log(document.getElementById('uploaded').value);
     };

@@ -12,15 +12,17 @@ import speech_recognition as sr
 import torch
 from ip.demo import detect_cv2, color_result, object_result, object_count_result
 
+prediction_folder = os.path.join('static', 'images')
 app = Flask(__name__, template_folder='templates', static_folder='static')
 app.debug = True
+app.config['UPLOAD_FOLDER'] = prediction_folder
 
 r = sr.Recognizer()
 model = BertClassifier()
 model.load_state_dict(torch.load('../nlp/model/bert.pt', map_location=torch.device('cpu')))
 cfg_file = '../ip/cfg/yolov4.cfg'
 weight_file = '../ip/weights/yolov4.weights'
-
+coco_path = '../ip/data/coco.names'
 
 def speech_to_text():
     with sr.Microphone() as source:
@@ -35,16 +37,25 @@ def speech_to_text():
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
+        f = open(coco_path, 'r')
+        coco_list = []
+        for line in f.readlines():
+            coco_list.append(line.replace('\n', ''))
+        f.close()
+
         text = speech_to_text()
         cl = clean_question(text)
 
         try:
             obj = find_objects(list_to_string(cl))
             obj = obj[0]
+            if obj not in coco_list:
+                obj = None
         except Exception as err:
             obj = None
             pass
 
+        print('obj:', obj)
         try:
             key, label_id = predict(model, text=text)
             image_file = request.form['uploaded']
@@ -65,7 +76,8 @@ def index():
             if obj == 'people':
                 obj = 'person'
             result = color_result(all_list, object_name=obj)
-        return render_template('index.html', cls=str(result))
+        predicted_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'predictions.jpg')
+        return render_template('index.html', cls=str(result), predicted_image=predicted_filename)
     else:
         return render_template('index.html')
 
