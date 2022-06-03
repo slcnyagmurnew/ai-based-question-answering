@@ -61,7 +61,7 @@ def find_objects(text):
             elif token.dep_ == 'pobj':
                 objects.append(token.text)
         # check token pos
-        elif token.pos_ == 'NOUN':
+        elif token.pos_ == 'NOUN' or token.pos_ == 'PROPN':
             if token.dep_ == 'attr':
                 objects.append(token.text)
             if token.dep_ == 'pobj':
@@ -74,7 +74,7 @@ def find_objects(text):
 
 
 if __name__ == '__main__':
-    text = 'What color is this bag, please tell me?'
+    text = 'Is there any cup?'
     cl = clean_question(text)
     obj = find_objects(list_to_string(cl))
     print(obj)

@@ -24,6 +24,7 @@ cfg_file = '../ip/cfg/yolov4.cfg'
 weight_file = '../ip/weights/yolov4.weights'
 coco_path = '../ip/data/coco.names'
 
+
 def speech_to_text():
     with sr.Microphone() as source:
         # read the audio data from the default microphone
@@ -49,6 +50,8 @@ def index():
         try:
             obj = find_objects(list_to_string(cl))
             obj = obj[0]
+            if obj == 'people':
+                obj = 'person'
             if obj not in coco_list:
                 obj = None
         except Exception as err:
@@ -67,14 +70,10 @@ def index():
             raise err
 
         if key == 'number':
-            if obj == 'people':
-                obj = 'person'
             result = object_count_result(all_list, object_name=obj)
         elif key == 'object':
             result = object_result(all_list)
         else:
-            if obj == 'people':
-                obj = 'person'
             result = color_result(all_list, object_name=obj)
         predicted_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'predictions.jpg')
         return render_template('index.html', cls=str(result), predicted_image=predicted_filename)

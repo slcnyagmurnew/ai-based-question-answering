@@ -25,7 +25,7 @@ csv = pd.read_csv('../ip/data/colors.csv', names=index, header=None)
 # csv = pd.read_csv('data/main_colors.csv', names=index, header=None)
 
 # Reading the image with opencv
-# img = cv2.imread("/home/ahmet/GithubProjects/pytorch-YOLOv4/data/yesilbardak.jpg")
+img = cv2.imread("/home/selcanyagmuratak/PycharmProjects/Bitirme0/front/static/images/bardak.jpeg")
 
 
 # function to calculate minimum distance from all colors and get the most matching color
@@ -144,7 +144,7 @@ def get_color_dist(img):
 # b, g, r = get_avg_bgr(img)
 # color_name = getColorName(r, g, b)
 # print(color_name)
-
+#
 # return_dict = get_color_histogram(img)
 # print(return_dict)
 
