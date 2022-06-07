@@ -87,7 +87,7 @@ def index():
         print(f'Process finished..\nCurrent time: {finish_time.strftime("%H:%M:%S")}')
         difference = finish_time - start_time
         seconds_in_day = 24 * 60 * 60
-        print(divmod(difference.days * seconds_in_day + difference.seconds, 60))
+        print(f"Predicted in {divmod(difference.days * seconds_in_day + difference.seconds, 60)[1]} seconds..")
 
         predicted_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'predictions.jpg')
         return render_template('index.html', cls=str(result), predicted_image=predicted_filename)
