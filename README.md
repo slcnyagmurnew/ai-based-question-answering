@@ -1,3 +1,8 @@
+## AI-Based Question Answering System for Blind People
+
+The aim of this project is to maximize the interaction of visually impaired individuals with their environment and to minimize the negative effects of visual deprivation. 
+
+In the application, text classification was performed using BERT and image classification was performed using YOLOv4. In addition, questions are received via audio and then translated into text. By extracting meaning from the text, the focal objects in the question were transferred to the image processing model. The system can give correct answers to **object**, **number** and **color** based questions.
 - To download nltk tools run:
 ```angular2html
 python3 nlp/download.py
